@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/282niyam404/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/282niyam404/DSA-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -51,10 +53,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/282niyam404/DSA-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
