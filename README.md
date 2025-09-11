@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/282niyam404/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/282niyam404/DSA-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
