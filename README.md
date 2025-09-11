@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
