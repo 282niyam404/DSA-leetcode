@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/282niyam404/DSA-leetcode/tree/master/0682-baseball-game) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/0389-find-the-difference) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/282niyam404/DSA-leetcode/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/3447-clear-digits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
