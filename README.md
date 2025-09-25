@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/282niyam404/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/282niyam404/DSA-leetcode/tree/master/1720-crawler-log-folder) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/282niyam404/DSA-leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/282niyam404/DSA-leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/0389-find-the-difference) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/282niyam404/DSA-leetcode/tree/master/2714-left-and-right-sum-differences) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
