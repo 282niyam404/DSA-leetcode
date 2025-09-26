@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/282niyam404/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
+| [1137-height-checker](https://github.com/282niyam404/DSA-leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/282niyam404/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/0389-find-the-difference) |
+| [1137-height-checker](https://github.com/282niyam404/DSA-leetcode/tree/master/1137-height-checker) |
 | [1970-sorting-the-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1970-sorting-the-sentence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/282niyam404/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/282niyam404/DSA-leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
