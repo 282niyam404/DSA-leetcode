@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/282niyam404/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/282niyam404/DSA-leetcode/tree/master/1720-crawler-log-folder) |
+| [1944-truncate-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/282niyam404/DSA-leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/282niyam404/DSA-leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1666-make-the-string-great](https://github.com/282niyam404/DSA-leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/282niyam404/DSA-leetcode/tree/master/1720-crawler-log-folder) |
+| [1944-truncate-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/282niyam404/DSA-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/282niyam404/DSA-leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
