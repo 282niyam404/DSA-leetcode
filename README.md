@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2639-separate-the-digits-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/282niyam404/DSA-leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/282niyam404/DSA-leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/282niyam404/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2639-separate-the-digits-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3447-clear-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
