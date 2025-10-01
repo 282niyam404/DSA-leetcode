@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/282niyam404/DSA-leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/282niyam404/DSA-leetcode/tree/master/3194-find-words-containing-character) |
+| [3582-find-indices-of-stable-mountains](https://github.com/282niyam404/DSA-leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
