@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/282niyam404/DSA-leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/282niyam404/DSA-leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/0941-sort-array-by-parity) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/282niyam404/DSA-leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
