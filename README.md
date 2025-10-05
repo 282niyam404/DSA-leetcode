@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/282niyam404/DSA-leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/282niyam404/DSA-leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/282niyam404/DSA-leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
+| [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2825-minimize-string-length](https://github.com/282niyam404/DSA-leetcode/tree/master/2825-minimize-string-length) |
 ## Bit Manipulation
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/282niyam404/DSA-leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
