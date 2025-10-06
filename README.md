@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/282niyam404/DSA-leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/3778-transform-array-by-parity) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/282niyam404/DSA-leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
