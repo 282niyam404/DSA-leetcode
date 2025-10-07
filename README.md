@@ -279,4 +279,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/282niyam404/DSA-leetcode/tree/master/2507-number-of-common-factors) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
