@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/282niyam404/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1720-crawler-log-folder](https://github.com/282niyam404/DSA-leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/282niyam404/DSA-leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/282niyam404/DSA-leetcode/tree/master/0067-add-binary) |
 | [1013-fibonacci-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/282niyam404/DSA-leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/282niyam404/DSA-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/282niyam404/DSA-leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/282niyam404/DSA-leetcode/tree/master/2714-left-and-right-sum-differences) |
