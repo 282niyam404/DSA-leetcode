@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/282niyam404/DSA-leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/282niyam404/DSA-leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/282niyam404/DSA-leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/282niyam404/DSA-leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/282niyam404/DSA-leetcode/tree/master/3194-find-words-containing-character) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2825-minimize-string-length](https://github.com/282niyam404/DSA-leetcode/tree/master/2825-minimize-string-length) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/282niyam404/DSA-leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/282niyam404/DSA-leetcode/tree/master/2825-minimize-string-length) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/282niyam404/DSA-leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/282niyam404/DSA-leetcode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/3447-clear-digits) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3447-clear-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
