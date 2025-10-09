@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/282niyam404/DSA-leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/282niyam404/DSA-leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/282niyam404/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/282niyam404/DSA-leetcode/tree/master/0874-backspace-string-compare) |
+| [1505-create-target-array-in-the-given-order](https://github.com/282niyam404/DSA-leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2639-separate-the-digits-in-an-array) |
