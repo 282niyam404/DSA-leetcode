@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3817-maximum-containers-on-a-ship](https://github.com/282niyam404/DSA-leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/282niyam404/DSA-leetcode/tree/master/3830-find-closest-person) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/282niyam404/DSA-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/282niyam404/DSA-leetcode/tree/master/2507-number-of-common-factors) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/282niyam404/DSA-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
