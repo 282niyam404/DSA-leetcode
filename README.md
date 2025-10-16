@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/282niyam404/DSA-leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/282niyam404/DSA-leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/282niyam404/DSA-leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/282niyam404/DSA-leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/282niyam404/DSA-leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1944-truncate-sentence) |
