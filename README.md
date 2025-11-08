@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/282niyam404/DSA-leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/282niyam404/DSA-leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/282niyam404/DSA-leetcode/tree/master/2825-minimize-string-length) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/282niyam404/DSA-leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/282niyam404/DSA-leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
