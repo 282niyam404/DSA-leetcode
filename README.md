@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/282niyam404/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/282niyam404/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/282niyam404/DSA-leetcode/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/282niyam404/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/282niyam404/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/282niyam404/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/282niyam404/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/282niyam404/DSA-leetcode/tree/master/0792-binary-search) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
