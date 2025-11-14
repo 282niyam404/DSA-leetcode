@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/282niyam404/DSA-leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/282niyam404/DSA-leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/282niyam404/DSA-leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/282niyam404/DSA-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/282niyam404/DSA-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/282niyam404/DSA-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/282niyam404/DSA-leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/282niyam404/DSA-leetcode/tree/master/2481-strictly-palindromic-number) |
