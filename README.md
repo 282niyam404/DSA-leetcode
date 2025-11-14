@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/282niyam404/DSA-leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/282niyam404/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/282niyam404/DSA-leetcode/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/282niyam404/DSA-leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1013-fibonacci-number) |
