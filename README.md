@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/282niyam404/DSA-leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/282niyam404/DSA-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/282niyam404/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/282niyam404/DSA-leetcode/tree/master/0290-word-pattern) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/282niyam404/DSA-leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/282niyam404/DSA-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/282niyam404/DSA-leetcode/tree/master/0682-baseball-game) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/282niyam404/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/282niyam404/DSA-leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/282niyam404/DSA-leetcode/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/282niyam404/DSA-leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1013-fibonacci-number) |
