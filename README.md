@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
