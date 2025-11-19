@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/282niyam404/DSA-leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/282niyam404/DSA-leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Divide and Conquer
 |  |
 | ------- |
