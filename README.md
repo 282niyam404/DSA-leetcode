@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/282niyam404/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/282niyam404/DSA-leetcode/tree/master/0682-baseball-game) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/282niyam404/DSA-leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/282niyam404/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/282niyam404/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/282niyam404/DSA-leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/282niyam404/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/282niyam404/DSA-leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
