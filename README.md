@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/282niyam404/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/282niyam404/DSA-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/282niyam404/DSA-leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/282niyam404/DSA-leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/282niyam404/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/282niyam404/DSA-leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/282niyam404/DSA-leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
