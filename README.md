@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/282niyam404/DSA-leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/282niyam404/DSA-leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/282niyam404/DSA-leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/282niyam404/DSA-leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2571-find-the-pivot-integer](https://github.com/282niyam404/DSA-leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/282niyam404/DSA-leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/282niyam404/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/282niyam404/DSA-leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/282niyam404/DSA-leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting Sort
