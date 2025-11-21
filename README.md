@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/282niyam404/DSA-leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/282niyam404/DSA-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/282niyam404/DSA-leetcode/tree/master/2238-a-number-after-a-double-reversal) |
