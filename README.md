@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/282niyam404/DSA-leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/282niyam404/DSA-leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2714-left-and-right-sum-differences](https://github.com/282niyam404/DSA-leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/282niyam404/DSA-leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/282niyam404/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Enumeration
 |  |
