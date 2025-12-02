@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/282niyam404/DSA-leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/282niyam404/DSA-leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/282niyam404/DSA-leetcode/tree/master/2315-count-asterisks) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/282niyam404/DSA-leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/282niyam404/DSA-leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
