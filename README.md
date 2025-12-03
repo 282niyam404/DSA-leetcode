@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/282niyam404/DSA-leetcode/tree/master/1039-find-the-town-judge) |
 | [1137-height-checker](https://github.com/282niyam404/DSA-leetcode/tree/master/1137-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/282niyam404/DSA-leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/282niyam404/DSA-leetcode/tree/master/1039-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/282niyam404/DSA-leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/282niyam404/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/282niyam404/DSA-leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/282niyam404/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/282niyam404/DSA-leetcode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/282niyam404/DSA-leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/282niyam404/DSA-leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
