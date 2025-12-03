@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/282niyam404/DSA-leetcode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/282niyam404/DSA-leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Trie
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/2998-count-symmetric-integers) |
 | [3371-harshad-number](https://github.com/282niyam404/DSA-leetcode/tree/master/3371-harshad-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/282niyam404/DSA-leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3817-maximum-containers-on-a-ship](https://github.com/282niyam404/DSA-leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/282niyam404/DSA-leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
