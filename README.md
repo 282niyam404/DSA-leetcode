@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/282niyam404/DSA-leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3226-minimum-number-game](https://github.com/282niyam404/DSA-leetcode/tree/master/3226-minimum-number-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3447-clear-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/282niyam404/DSA-leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/2998-count-symmetric-integers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3371-harshad-number](https://github.com/282niyam404/DSA-leetcode/tree/master/3371-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/282niyam404/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
