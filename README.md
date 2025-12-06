@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/282niyam404/DSA-leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/282niyam404/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/282niyam404/DSA-leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/2998-count-symmetric-integers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3371-harshad-number](https://github.com/282niyam404/DSA-leetcode/tree/master/3371-harshad-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/282niyam404/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/282niyam404/DSA-leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3817-maximum-containers-on-a-ship](https://github.com/282niyam404/DSA-leetcode/tree/master/3817-maximum-containers-on-a-ship) |
