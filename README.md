@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/282niyam404/DSA-leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/282niyam404/DSA-leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0841-keys-and-rooms](https://github.com/282niyam404/DSA-leetcode/tree/master/0841-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/282niyam404/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/282niyam404/DSA-leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0841-keys-and-rooms](https://github.com/282niyam404/DSA-leetcode/tree/master/0841-keys-and-rooms) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/282niyam404/DSA-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/282niyam404/DSA-leetcode/tree/master/0841-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/282niyam404/DSA-leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/282niyam404/DSA-leetcode/tree/master/1916-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/282niyam404/DSA-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
