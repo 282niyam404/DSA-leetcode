@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/282niyam404/DSA-leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/282niyam404/DSA-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/282niyam404/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/282niyam404/DSA-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/282niyam404/DSA-leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/282niyam404/DSA-leetcode/tree/master/1720-crawler-log-folder) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/282niyam404/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/282niyam404/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/282niyam404/DSA-leetcode/tree/master/0816-design-hashset) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/282niyam404/DSA-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Math
 |  |
 | ------- |
