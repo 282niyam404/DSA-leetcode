@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/282niyam404/DSA-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/282niyam404/DSA-leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1944-truncate-sentence) |
+| [1980-find-unique-binary-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/282niyam404/DSA-leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/282niyam404/DSA-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/282niyam404/DSA-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1970-sorting-the-sentence) |
+| [1980-find-unique-binary-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/282niyam404/DSA-leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/282niyam404/DSA-leetcode/tree/master/0046-permutations) |
+| [1980-find-unique-binary-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 ## Ordered Set
 |  |
 | ------- |
