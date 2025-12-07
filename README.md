@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/282niyam404/DSA-leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/282niyam404/DSA-leetcode/tree/master/1916-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/282niyam404/DSA-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2924-find-champion-ii](https://github.com/282niyam404/DSA-leetcode/tree/master/2924-find-champion-ii) |
 ## Sliding Window
 |  |
 | ------- |
