@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/282niyam404/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/282niyam404/DSA-leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/282niyam404/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/282niyam404/DSA-leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/282niyam404/DSA-leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/282niyam404/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/282niyam404/DSA-leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/282niyam404/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/282niyam404/DSA-leetcode/tree/master/2825-minimize-string-length) |
