@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/282niyam404/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2363-merge-similar-items](https://github.com/282niyam404/DSA-leetcode/tree/master/2363-merge-similar-items) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/282niyam404/DSA-leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/282niyam404/DSA-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2363-merge-similar-items](https://github.com/282niyam404/DSA-leetcode/tree/master/2363-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
