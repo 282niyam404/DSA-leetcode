@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/282niyam404/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/282niyam404/DSA-leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/282niyam404/DSA-leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/282niyam404/DSA-leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/282niyam404/DSA-leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/282niyam404/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/282niyam404/DSA-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
