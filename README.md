@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/282niyam404/DSA-leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/282niyam404/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/282niyam404/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/282niyam404/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/282niyam404/DSA-leetcode/tree/master/0283-move-zeroes) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/282niyam404/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
