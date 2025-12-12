@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/282niyam404/DSA-leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/282niyam404/DSA-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/282niyam404/DSA-leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4107-find-missing-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/282niyam404/DSA-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/3778-transform-array-by-parity) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
 ## String
