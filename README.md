@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/282niyam404/DSA-leetcode/tree/master/1436-destination-city) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/282niyam404/DSA-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/282niyam404/DSA-leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1505-create-target-array-in-the-given-order](https://github.com/282niyam404/DSA-leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/282niyam404/DSA-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/282niyam404/DSA-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/282niyam404/DSA-leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/282niyam404/DSA-leetcode/tree/master/1720-crawler-log-folder) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/282niyam404/DSA-leetcode/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/282niyam404/DSA-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
