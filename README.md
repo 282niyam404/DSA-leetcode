@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1971-find-if-path-exists-in-graph](https://github.com/282niyam404/DSA-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/282niyam404/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/282niyam404/DSA-leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/282niyam404/DSA-leetcode/tree/master/0841-keys-and-rooms) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/282niyam404/DSA-leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/282niyam404/DSA-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/282niyam404/DSA-leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
