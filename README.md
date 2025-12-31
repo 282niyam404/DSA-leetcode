@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/282niyam404/DSA-leetcode/tree/master/3194-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/3248-snake-in-matrix) |
 | [3447-clear-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/3447-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3636-check-balanced-string](https://github.com/282niyam404/DSA-leetcode/tree/master/3636-check-balanced-string) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
 ## Queue
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/3248-snake-in-matrix) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3447-clear-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/3447-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/282niyam404/DSA-leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Trie
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3371-harshad-number](https://github.com/282niyam404/DSA-leetcode/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/282niyam404/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/282niyam404/DSA-leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/282niyam404/DSA-leetcode/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/282niyam404/DSA-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
@@ -789,4 +793,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
