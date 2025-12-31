@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/282niyam404/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/282niyam404/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/282niyam404/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/282niyam404/DSA-leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/282niyam404/DSA-leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/282niyam404/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
