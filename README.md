@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/282niyam404/DSA-leetcode/tree/master/3226-minimum-number-game) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/3778-transform-array-by-parity) |
 | [4107-find-missing-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/4107-find-missing-elements) |
 ## Stack
