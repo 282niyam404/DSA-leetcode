@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/282niyam404/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/282niyam404/DSA-leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/282niyam404/DSA-leetcode/tree/master/1518-water-bottles) |
 | [1552-build-an-array-with-stack-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/282niyam404/DSA-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/282niyam404/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
+| [1518-water-bottles](https://github.com/282niyam404/DSA-leetcode/tree/master/1518-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/282niyam404/DSA-leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
