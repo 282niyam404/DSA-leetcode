@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/282niyam404/DSA-leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2928-distribute-candies-among-children-i](https://github.com/282niyam404/DSA-leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2998-count-symmetric-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/2998-count-symmetric-integers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/282niyam404/DSA-leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2507-number-of-common-factors](https://github.com/282niyam404/DSA-leetcode/tree/master/2507-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2928-distribute-candies-among-children-i](https://github.com/282niyam404/DSA-leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2998-count-symmetric-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
@@ -801,5 +803,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2928-distribute-candies-among-children-i](https://github.com/282niyam404/DSA-leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
