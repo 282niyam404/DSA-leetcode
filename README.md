@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/282niyam404/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2634-minimum-common-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3636-check-balanced-string](https://github.com/282niyam404/DSA-leetcode/tree/master/3636-check-balanced-string) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
+| [3794-reverse-string-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Queue
 |  |
 | ------- |
