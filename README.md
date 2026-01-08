@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/282niyam404/DSA-leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1817-finding-the-users-active-minutes](https://github.com/282niyam404/DSA-leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/282niyam404/DSA-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-find-the-highest-altitude](https://github.com/282niyam404/DSA-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/282niyam404/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/282niyam404/DSA-leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/282niyam404/DSA-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/282niyam404/DSA-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
