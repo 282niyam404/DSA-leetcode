@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/282niyam404/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
+| [1492-the-kth-factor-of-n](https://github.com/282niyam404/DSA-leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/282niyam404/DSA-leetcode/tree/master/1518-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/282niyam404/DSA-leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/282niyam404/DSA-leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/282niyam404/DSA-leetcode/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
