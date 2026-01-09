@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/282niyam404/DSA-leetcode/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/282niyam404/DSA-leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2544-alternating-digit-sum](https://github.com/282niyam404/DSA-leetcode/tree/master/2544-alternating-digit-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2571-find-the-pivot-integer](https://github.com/282niyam404/DSA-leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2748-calculate-delayed-arrival-time](https://github.com/282niyam404/DSA-leetcode/tree/master/2748-calculate-delayed-arrival-time) |
