@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/282niyam404/DSA-leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/282niyam404/DSA-leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/282niyam404/DSA-leetcode/tree/master/2363-merge-similar-items) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
+| [2506-count-pairs-of-similar-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/282niyam404/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/282niyam404/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/282niyam404/DSA-leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/282niyam404/DSA-leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/282niyam404/DSA-leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2785-sort-vowels-in-a-string) |
