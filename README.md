@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/282niyam404/DSA-leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/282niyam404/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/282niyam404/DSA-leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/282niyam404/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/282niyam404/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/282niyam404/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/282niyam404/DSA-leetcode/tree/master/0067-add-binary) |
 | [0537-complex-number-multiplication](https://github.com/282niyam404/DSA-leetcode/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/282niyam404/DSA-leetcode/tree/master/0728-self-dividing-numbers) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
