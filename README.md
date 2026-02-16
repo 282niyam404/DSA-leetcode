@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/282niyam404/DSA-leetcode/tree/master/2363-merge-similar-items) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/282niyam404/DSA-leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/282niyam404/DSA-leetcode/tree/master/2363-merge-similar-items) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/282niyam404/DSA-leetcode/tree/master/2363-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/282niyam404/DSA-leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/282niyam404/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/282niyam404/DSA-leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/282niyam404/DSA-leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/282niyam404/DSA-leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/282niyam404/DSA-leetcode/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/282niyam404/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/282niyam404/DSA-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -763,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/282niyam404/DSA-leetcode/tree/master/1046-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/282niyam404/DSA-leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/282niyam404/DSA-leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/282niyam404/DSA-leetcode/tree/master/3226-minimum-number-game) |
