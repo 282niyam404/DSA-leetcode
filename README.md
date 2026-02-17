@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/282niyam404/DSA-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/282niyam404/DSA-leetcode/tree/master/2363-merge-similar-items) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/282niyam404/DSA-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/282niyam404/DSA-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/282niyam404/DSA-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/282niyam404/DSA-leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/282niyam404/DSA-leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2315-count-asterisks](https://github.com/282niyam404/DSA-leetcode/tree/master/2315-count-asterisks) |
+| [2351-first-letter-to-appear-twice](https://github.com/282niyam404/DSA-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2406-decode-the-message](https://github.com/282niyam404/DSA-leetcode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
