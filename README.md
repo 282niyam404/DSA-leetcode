@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/282niyam404/DSA-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2043-simple-bank-system](https://github.com/282niyam404/DSA-leetcode/tree/master/2043-simple-bank-system) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/282niyam404/DSA-leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/282niyam404/DSA-leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/282niyam404/DSA-leetcode/tree/master/2043-simple-bank-system) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/282niyam404/DSA-leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/282niyam404/DSA-leetcode/tree/master/2103-rings-and-rods) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/282niyam404/DSA-leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/282niyam404/DSA-leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1970-sorting-the-sentence) |
 | [1980-find-unique-binary-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/282niyam404/DSA-leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/282niyam404/DSA-leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/282niyam404/DSA-leetcode/tree/master/2103-rings-and-rods) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/282niyam404/DSA-leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
