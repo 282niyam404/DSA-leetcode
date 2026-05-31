@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/282niyam404/DSA-leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/282niyam404/DSA-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/282niyam404/DSA-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3817-maximum-containers-on-a-ship](https://github.com/282niyam404/DSA-leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/282niyam404/DSA-leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/282niyam404/DSA-leetcode/tree/master/3895-count-digit-appearances) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/282niyam404/DSA-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
