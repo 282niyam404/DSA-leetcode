@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/282niyam404/DSA-leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/282niyam404/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/282niyam404/DSA-leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2951-find-the-peaks](https://github.com/282niyam404/DSA-leetcode/tree/master/2951-find-the-peaks) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/282niyam404/DSA-leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3028-ant-on-the-boundary](https://github.com/282niyam404/DSA-leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/282niyam404/DSA-leetcode/tree/master/2507-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/282niyam404/DSA-leetcode/tree/master/2928-distribute-candies-among-children-i) |
+| [2951-find-the-peaks](https://github.com/282niyam404/DSA-leetcode/tree/master/2951-find-the-peaks) |
 | [2998-count-symmetric-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/2998-count-symmetric-integers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
