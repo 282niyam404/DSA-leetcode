@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/282niyam404/DSA-leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/282niyam404/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/282niyam404/DSA-leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/282niyam404/DSA-leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/282niyam404/DSA-leetcode/tree/master/2363-merge-similar-items) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2460-apply-operations-to-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/282niyam404/DSA-leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/282niyam404/DSA-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/282niyam404/DSA-leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/282niyam404/DSA-leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2460-apply-operations-to-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/282niyam404/DSA-leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2562-find-the-array-concatenation-value](https://github.com/282niyam404/DSA-leetcode/tree/master/2562-find-the-array-concatenation-value) |
