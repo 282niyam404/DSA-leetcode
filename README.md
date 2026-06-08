@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/282niyam404/DSA-leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/282niyam404/DSA-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-string-matching-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/282niyam404/DSA-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/282niyam404/DSA-leetcode/tree/master/1436-destination-city) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/282niyam404/DSA-leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/282niyam404/DSA-leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/282niyam404/DSA-leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/282niyam404/DSA-leetcode/tree/master/1436-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1408-string-matching-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Matrix
