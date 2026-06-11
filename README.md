@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/282niyam404/DSA-leetcode/tree/master/0742-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0791-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0822-unique-morse-code-words) |
+| [0824-goat-latin](https://github.com/282niyam404/DSA-leetcode/tree/master/0824-goat-latin) |
 | [0841-shortest-distance-to-a-character](https://github.com/282niyam404/DSA-leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/282niyam404/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/282niyam404/DSA-leetcode/tree/master/0953-reverse-only-letters) |
