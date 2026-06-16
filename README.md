@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/282niyam404/DSA-leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/282niyam404/DSA-leetcode/tree/master/0816-design-hashset) |
+| [0819-most-common-word](https://github.com/282niyam404/DSA-leetcode/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/282niyam404/DSA-leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/282niyam404/DSA-leetcode/tree/master/0861-flipping-an-image) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0791-custom-sort-string) |
 | [0816-design-hashset](https://github.com/282niyam404/DSA-leetcode/tree/master/0816-design-hashset) |
+| [0819-most-common-word](https://github.com/282niyam404/DSA-leetcode/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/282niyam404/DSA-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/282niyam404/DSA-leetcode/tree/master/1039-find-the-town-judge) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/282niyam404/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/282niyam404/DSA-leetcode/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/282niyam404/DSA-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/282niyam404/DSA-leetcode/tree/master/0742-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/282niyam404/DSA-leetcode/tree/master/0791-custom-sort-string) |
+| [0819-most-common-word](https://github.com/282niyam404/DSA-leetcode/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/282niyam404/DSA-leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-goat-latin](https://github.com/282niyam404/DSA-leetcode/tree/master/0824-goat-latin) |
 | [0841-shortest-distance-to-a-character](https://github.com/282niyam404/DSA-leetcode/tree/master/0841-shortest-distance-to-a-character) |
