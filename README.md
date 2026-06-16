@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/282niyam404/DSA-leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/282niyam404/DSA-leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/282niyam404/DSA-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/282niyam404/DSA-leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/282niyam404/DSA-leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/282niyam404/DSA-leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4107-find-missing-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/4107-find-missing-elements) |
