@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/282niyam404/DSA-leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1651-shuffle-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/282niyam404/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/282niyam404/DSA-leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/282niyam404/DSA-leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/282niyam404/DSA-leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/282niyam404/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1970-sorting-the-sentence) |
