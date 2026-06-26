@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4107-find-missing-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
