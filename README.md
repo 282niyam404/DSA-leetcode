@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/282niyam404/DSA-leetcode/tree/master/3636-check-balanced-string) |
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
 | [3794-reverse-string-prefix](https://github.com/282niyam404/DSA-leetcode/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/282niyam404/DSA-leetcode/tree/master/3798-largest-even-number) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/282niyam404/DSA-leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/282niyam404/DSA-leetcode/tree/master/3884-first-matching-character-from-both-ends) |
