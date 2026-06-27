@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/282niyam404/DSA-leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/282niyam404/DSA-leetcode/tree/master/1436-destination-city) |
+| [1507-reformat-date](https://github.com/282niyam404/DSA-leetcode/tree/master/1507-reformat-date) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/282niyam404/DSA-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/282niyam404/DSA-leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1651-shuffle-string](https://github.com/282niyam404/DSA-leetcode/tree/master/1651-shuffle-string) |
