@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/282niyam404/DSA-leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3827-count-monobit-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/3827-count-monobit-integers) |
 ## Counting
 |  |
 | ------- |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/282niyam404/DSA-leetcode/tree/master/2951-find-the-peaks) |
 | [2998-count-symmetric-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/2998-count-symmetric-integers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3827-count-monobit-integers](https://github.com/282niyam404/DSA-leetcode/tree/master/3827-count-monobit-integers) |
 ## Number Theory
 |  |
 | ------- |
