@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/3778-transform-array-by-parity) |
+| [3842-toggle-light-bulbs](https://github.com/282niyam404/DSA-leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/282niyam404/DSA-leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/282niyam404/DSA-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/282niyam404/DSA-leetcode/tree/master/3707-find-the-most-common-response) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/282niyam404/DSA-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3842-toggle-light-bulbs](https://github.com/282niyam404/DSA-leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3994-find-the-least-frequent-digit](https://github.com/282niyam404/DSA-leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4107-find-missing-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/282niyam404/DSA-leetcode/tree/master/3778-transform-array-by-parity) |
+| [3842-toggle-light-bulbs](https://github.com/282niyam404/DSA-leetcode/tree/master/3842-toggle-light-bulbs) |
 | [4107-find-missing-elements](https://github.com/282niyam404/DSA-leetcode/tree/master/4107-find-missing-elements) |
 ## Stack
 |  |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/282niyam404/DSA-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/282niyam404/DSA-leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/282niyam404/DSA-leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3842-toggle-light-bulbs](https://github.com/282niyam404/DSA-leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/282niyam404/DSA-leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/282niyam404/DSA-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
